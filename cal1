@@ -6,4 +6,4 @@ def multiplication_table(n):
             print("{:3d}".format(i*j), end=" ")
         print()
 
-multiplication_table(12)
+multiplication_table(122)
